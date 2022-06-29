@@ -43,4 +43,4 @@
 
 ## Credits
 
-   author : Marthen Fredi Otoyai Tenouye
+   author : Marthen Fredi Otoyai Tenouye -- Papua
